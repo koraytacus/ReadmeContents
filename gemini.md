@@ -43,7 +43,7 @@ This project is a local network coding exam interface designed for university st
 ## Technologies Used
 
 -   [Programming Language] Python 
--   [Framework(s)] Django
+-   [Framework] Django
 -   Docker
 -   HTML/CSS/JavaScript
 
@@ -52,8 +52,8 @@ This project is a local network coding exam interface designed for university st
 ### Prerequisites
 
 -   Docker
--   [Programming Language(s)] (e.g., Python, Java, C)
--   [Framework(s)] (e.g., Flask, Django, Spring Boot)
+-   Python
+-   Django
 
 ### Installation
 
