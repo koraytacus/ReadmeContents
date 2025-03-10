@@ -54,8 +54,7 @@ The Coding Exam Platform is a specialized local network-based system designed fo
 - **Expanded Language Support:** Adds compatibility for additional programming languages.
 
 ## **License**
-
-This project is licensed under the **Anti-Capitalist Software License (ACSL)**.  
+This project is licensed under MIT License and **Anti-Capitalist Software License (ACSL)**.  
 It is **strictly prohibited** to use this software for commercial purposes, profit-making ventures, or in support of capitalist organizations.  
 
 However, contributions and modifications are **welcome** under the terms of this license.  
