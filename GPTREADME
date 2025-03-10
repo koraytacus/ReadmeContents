@@ -53,9 +53,15 @@ The Coding Exam Platform is a specialized local network-based system designed fo
 - **Plagiarism Detection Mechanism:** Ensures academic integrity by identifying similar code submissions.
 - **Expanded Language Support:** Adds compatibility for additional programming languages.
 
-## **License & Contributions**
-This project is open-source and can be customized to meet institutional requirements. Contributions and feature enhancements from the community are welcome.
+## **License**
 
----
+This project is licensed under the **Anti-Capitalist Software License (ACSL)**.  
+It is **strictly prohibited** to use this software for commercial purposes, profit-making ventures, or in support of capitalist organizations.  
+
+However, contributions and modifications are **welcome** under the terms of this license.  
+
+For full terms and conditions, see the [LICENSE](LICENSE) file or visit the official license page:  
+🔗 [Anti-Capitalist Software License](https://github.com/hxr404/ACSL)
+
 For further inquiries or contributions, please submit a pull request or reach out via the project's repository.
 
