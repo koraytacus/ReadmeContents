@@ -60,6 +60,6 @@ It is **strictly prohibited** to use this software for commercial purposes, prof
 However, contributions and modifications are **welcome** under the terms of this license.  
 
 For full terms and conditions, see the [LICENSE](LICENSE) file or visit the official license page:  
-🔗 [Anti-Capitalist Software License]([https://[github.com/hxr404/ACSL](https://anticapitalist.software)](https://anticapitalist.software))
+🔗 [Anti-Capitalist Software License](https://anticapitalist.software)
 
 For further inquiries or contributions, please submit a pull request or reach out via the project's repository.
