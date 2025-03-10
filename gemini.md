@@ -42,9 +42,8 @@ This project is a local network coding exam interface designed for university st
 
 ## Technologies Used
 
--   [Programming Language(s)] (e.g., Python, Java, C)
--   [Framework(s)] (e.g., Flask, Django, Spring Boot)
--   [Database(s)] (e.g., SQLite, MySQL, PostgreSQL)
+-   [Programming Language] Python 
+-   [Framework(s)] Django
 -   Docker
 -   HTML/CSS/JavaScript
 
