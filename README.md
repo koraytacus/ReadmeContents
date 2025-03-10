@@ -69,8 +69,15 @@ Contributions are welcome! Please fork the repository and use a feature branch. 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under MIT License and Anti-Capitalist Software License (ACSL).
+It is strictly prohibited to use this software for commercial purposes, profit-making ventures, or in support of capitalist organizations.
 
+However, contributions and modifications are welcome under the terms of this license.
+
+For full terms and conditions, see the LICENSE file or visit the official license page:
+🔗 Anti-Capitalist Software License
+
+For further inquiries or contributions, please submit a pull request or reach out via the project's repository.
 ## Acknowledgements
 
 - Inspired by coding platforms like HackerRank.
