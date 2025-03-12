@@ -1,5 +1,10 @@
 # **Coding Exam Platform**
 
+<p align="center">
+  <img src="ccbLogo.png" alt="Project Logo" width="200">
+</p>
+
+
 ## **Overview**
 The Coding Exam Platform is a specialized local network-based system designed for university-level software and computer engineering students. It provides a structured and secure coding examination environment, similar to online coding challenge platforms like HackerRank, ensuring fairness and efficiency in programming assessments.
 
