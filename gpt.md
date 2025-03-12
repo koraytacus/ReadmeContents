@@ -49,32 +49,106 @@ The Coding Exam Platform is a specialized local network-based system designed fo
 6. The exam concludes either upon time expiration or manual termination by the instructor.
 
 
-## Installation
+### Prerequisites
 
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/coding-exam-interface.git
-   cd coding-exam-interface
-   ```
+-   Docker
+-   Python
+-   Django
 
-2. **Set up Docker**:
-   Ensure Docker is installed on your system. If not, follow the instructions on [Docker's official website](https://www.docker.com/get-started).
+### Installation
 
-3. **Build Docker images**:
-   ```sh
-   docker build -t coding-exam-interface .
-   ```
+1.  Clone the repository:
 
-4. **Run the Docker container**:
-   ```sh
-   docker run -p 8080:8080 coding-exam-interface
-   ```
+    ```bash
+    git clone [repository URL]
+    ```
 
+2.  Install dependencies:
+
+    ```bash
+    [installation instructions]
+    ```
+
+3.  Run the application:
+
+    ```bash
+    [run instructions]
+    ```
+    
 
 ## **Potential Enhancements**
 - **Automated Grading System:** Enables automatic evaluation based on predefined test cases.
 - **Plagiarism Detection Mechanism:** Ensures academic integrity by identifying similar code submissions.
 - **Expanded Language Support:** Adds compatibility for additional programming languages.
+
+
+## **Main Contributers**
+
+## Main Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AliGithub">
+        <img src="https://github.com/hasanaliozkan-dev.png" width="100px;" alt="AliGithub"/>
+        <br />
+        <b>Hasan Ali Özkan</b>
+        <br />
+        Researcher Assistant
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AliGithub">
+        <img src="https://github.com/yarennoztekinn.png" width="100px;" alt="AliGithub"/>
+        <br />
+        <b>Yaren Öztekin</b>
+        <br />
+        Full Stack Developer
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AliGithub">
+        <img src="https://github.com/mazlumemregirgin.png" width="100px;" alt="AliGithub"/>
+        <br />
+        <b>Mazlum Emre Girgin</b>
+        <br />
+        Full Stack Developer
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AliGithub">
+        <img src="https://github.com/meliskirik.png" width="100px;" alt="AliGithub"/>
+        <br />
+        <b>Melis Kırık</b>
+        <br />
+        Full Stack Developer
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MehmetGithub">
+        <img src="https://github.com/Serdar1048.png" width="100px;" alt="MehmetGithub"/>
+        <br />
+        <b>Serdar Dedebaş</b>
+        <br />
+        Full Stack Developer
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AyseGithub">
+        <img src="https://github.com/koraytacus.png" width="100px;" alt="AyseGithub"/>
+        <br />
+        <b>Koray Ürün</b>
+        <br />
+        Full Stack Developer
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 ## **License**
 This project is licensed under MIT License and **Anti-Capitalist Software License (ACSL)**.  
