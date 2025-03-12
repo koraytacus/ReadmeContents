@@ -89,7 +89,7 @@ The Coding Exam Platform is a specialized local network-based system designed fo
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/AliGithub">
+      <a href="https://github.com/hasanaliozkan-dev">
         <img src="https://github.com/hasanaliozkan-dev.png" width="100px;" alt="AliGithub"/>
         <br />
         <b>Hasan Ali Özkan</b>
@@ -98,7 +98,7 @@ The Coding Exam Platform is a specialized local network-based system designed fo
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/AliGithub">
+      <a href="https://github.com/yarennoztekinn">
         <img src="https://github.com/yarennoztekinn.png" width="100px;" alt="AliGithub"/>
         <br />
         <b>Yaren Öztekin</b>
@@ -107,7 +107,7 @@ The Coding Exam Platform is a specialized local network-based system designed fo
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/AliGithub">
+      <a href="https://github.com/mazlumemregirgin">
         <img src="https://github.com/mazlumemregirgin.png" width="100px;" alt="AliGithub"/>
         <br />
         <b>Mazlum Emre Girgin</b>
@@ -116,7 +116,7 @@ The Coding Exam Platform is a specialized local network-based system designed fo
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/AliGithub">
+      <a href="https://github.com/meliskirik">
         <img src="https://github.com/meliskirik.png" width="100px;" alt="AliGithub"/>
         <br />
         <b>Melis Kırık</b>
@@ -125,7 +125,7 @@ The Coding Exam Platform is a specialized local network-based system designed fo
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MehmetGithub">
+      <a href="https://github.com/Serdar1048">
         <img src="https://github.com/Serdar1048.png" width="100px;" alt="MehmetGithub"/>
         <br />
         <b>Serdar Dedebaş</b>
@@ -134,7 +134,7 @@ The Coding Exam Platform is a specialized local network-based system designed fo
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/AyseGithub">
+      <a href="https://github.com/koraytacus">
         <img src="https://github.com/koraytacus.png" width="100px;" alt="AyseGithub"/>
         <br />
         <b>Koray Ürün</b>
