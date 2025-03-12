@@ -48,6 +48,29 @@ The Coding Exam Platform is a specialized local network-based system designed fo
 5. Students submit their final solutions, which are automatically stored in the designated output directory.
 6. The exam concludes either upon time expiration or manual termination by the instructor.
 
+
+## Installation
+
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/yourusername/coding-exam-interface.git
+   cd coding-exam-interface
+   ```
+
+2. **Set up Docker**:
+   Ensure Docker is installed on your system. If not, follow the instructions on [Docker's official website](https://www.docker.com/get-started).
+
+3. **Build Docker images**:
+   ```sh
+   docker build -t coding-exam-interface .
+   ```
+
+4. **Run the Docker container**:
+   ```sh
+   docker run -p 8080:8080 coding-exam-interface
+   ```
+
+
 ## **Potential Enhancements**
 - **Automated Grading System:** Enables automatic evaluation based on predefined test cases.
 - **Plagiarism Detection Mechanism:** Ensures academic integrity by identifying similar code submissions.
