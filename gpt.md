@@ -1,7 +1,7 @@
 # **Coding Exam Platform**
 
 <p align="center">
-  <img src="ccbLogo.png" alt="Project Logo" width="400">
+  <img src="ccbLogo.png" alt="Project Logo" width="300" align="left">
 </p>
 
 
