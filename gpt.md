@@ -56,9 +56,9 @@ The Coding Exam Platform is a specialized local network-based system designed fo
 
 ### Prerequisites
 
--   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker
--   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
--   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) Django
+-   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+-   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+-   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
 
 
 ### Installation
