@@ -3,7 +3,7 @@
 <p align="center">
   <img src="ccbLogo.png" alt="Project Logo" width="300" align="left">
 </p>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## **Overview**
 The Coding Exam Platform is a specialized local network-based system designed for university-level software and computer engineering students. It provides a structured and secure coding examination environment, similar to online coding challenge platforms like HackerRank, ensuring fairness and efficiency in programming assessments.
@@ -56,9 +56,10 @@ The Coding Exam Platform is a specialized local network-based system designed fo
 
 ### Prerequisites
 
--   Docker
--   Python
--   Django
+-   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker
+-   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
+-   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) Django
+
 
 ### Installation
 
@@ -88,8 +89,6 @@ The Coding Exam Platform is a specialized local network-based system designed fo
 
 
 ## **Main Contributers**
-
-## Main Contributors
 
 <table>
   <tr>
