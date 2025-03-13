@@ -1,3 +1,6 @@
+
+[![License - MIT 3-Clause](https://img.shields.io/pypi/l/sfsgl.svg)](https://github.com/hasanaliozkan-dev/sfsgl/blob/main/LICENSE):
+
 # **Coding Exam Platform**
 
 <p align="center">
