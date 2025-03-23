@@ -4,8 +4,8 @@
 
 
 
-![Visitor Count](https://api.countapi.xyz/hit/koraytacus/ReadmeContents?label=Visitors)
 
+![Visitor Count](https://img.shields.io/badge/Visitors-0-brightgreen?style=for-the-badge&logo=github)
 
 
 
