@@ -4,6 +4,11 @@
 
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/koraytacus/ReadmeContents&count_bg=%2379C83D&title=Viewer&edge_flat=false)
 
+![Visitor Count](https://img.shields.io/badge/Visitors-0-brightgreen?style=for-the-badge&logo=github)
+
+![Visitor Count](https://api.countapi.xyz/hit/koraytacus/ReadmeContents?label=Visitors)
+
+
 
 
 # **Coding Exam Platform**
