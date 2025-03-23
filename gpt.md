@@ -2,9 +2,7 @@
 [![License - MIT 3-Clause](https://img.shields.io/pypi/l/sfsgl.svg)](https://github.com/hasanaliozkan-dev/sfsgl/blob/main/LICENSE):
 
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/koraytacus/ReadmeContents&count_bg=%2379C83D&title=Viewer&edge_flat=false)
 
-![Visitor Count](https://img.shields.io/badge/Visitors-0-brightgreen?style=for-the-badge&logo=github)
 
 ![Visitor Count](https://api.countapi.xyz/hit/koraytacus/ReadmeContents?label=Visitors)
 
