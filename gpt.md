@@ -2,10 +2,10 @@
 [![License - MIT 3-Clause](https://img.shields.io/pypi/l/sfsgl.svg)](https://github.com/hasanaliozkan-dev/sfsgl/blob/main/LICENSE):
 
 
+![Visitor Count](https://api.countapi.xyz/hit/github.com/koraytacus/ReadmeContents/visitor-count?label=Visitors)
 
 
 
-![Visitor Count](https://img.shields.io/badge/Visitors-0-brightgreen?style=for-the-badge&logo=github)
 
 
 
