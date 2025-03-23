@@ -83,9 +83,12 @@ The Coding Exam Platform is a specialized local network-based system designed fo
 
 2.  Install dependencies:
 
-    Python Installation : https://www.python.org/downloads/
-    Django Installation : https://www.djangoproject.com/download/
-    Docker Installation : https://docs.docker.com/desktop/
+    Python Installation: [Download Python](https://www.python.org/downloads/)
+
+    Django Installation: [Download Django](https://www.djangoproject.com/download/)
+
+    Docker Installation: [Download Docker](https://docs.docker.com/desktop/)
+
 
 4.  Run the application:
 
