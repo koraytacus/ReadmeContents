@@ -4,6 +4,9 @@
 
 ![Visitor Count](https://api.countapi.xyz/hit/github.com/koraytacus/ReadmeContents/visitor-count?label=Visitors)
 
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/koraytacus/ReadmeContents)
+
+
 
 
 
