@@ -78,7 +78,7 @@ The Coding Exam Platform is a specialized local network-based system designed fo
 1.  Clone the repository:
 
     ```bash
-    git clone [repository URL]
+    git clone https://github.com/commoncodebase-ccb/safeCodeProvider.git
     ```
 
 2.  Install dependencies:
@@ -89,9 +89,8 @@ The Coding Exam Platform is a specialized local network-based system designed fo
 
 3.  Run the application:
 
-    ```bash
-    [run instructions]
-    ```
+   cd .\safeCodeProvider\
+   py manage.py runserver 8000 --settings=safeCodeProvider.settings.teacher_settings
     
 
 ## **Potential Enhancements**
