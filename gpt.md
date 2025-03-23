@@ -5,19 +5,8 @@
 
 
 
-[<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=koratyacus/ReadmeContents">
+[<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=koratyacus/ReadmeContents">
 ](https://visitor-badge.laobi.icu/badge?page_id=koraytacus/ReadmeContents)
-
-
-
-
-
-
-
-
-
-
-
 
 
 
