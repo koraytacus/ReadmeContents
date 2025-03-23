@@ -2,6 +2,8 @@
 [![License - MIT 3-Clause](https://img.shields.io/pypi/l/sfsgl.svg)](https://github.com/hasanaliozkan-dev/sfsgl/blob/main/LICENSE):
 
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/koraytacus/ReadmeContents)
+![Visitors](https://img.shields.io/badge/dynamic/jsoncolor=blue&label=visitors&query=value&url=https://api.countapi.xyz/hit/koraytacus/ReadmeContents)
+
 
 # **Coding Exam Platform**
 
