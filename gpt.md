@@ -1,5 +1,6 @@
 
 [![License - MIT 3-Clause](https://img.shields.io/pypi/l/sfsgl.svg)](https://github.com/hasanaliozkan-dev/sfsgl/blob/main/LICENSE):
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 # **Coding Exam Platform**
 
