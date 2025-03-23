@@ -2,10 +2,10 @@
 [![License - MIT 3-Clause](https://img.shields.io/pypi/l/sfsgl.svg)](https://github.com/hasanaliozkan-dev/sfsgl/blob/main/LICENSE):
 
 
-![Viewer Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/koraytacus/ReadmeContents&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Viewer&edge_flat=false)
 
 
-[<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=koratyacus/ReadmeContents">
+
+[<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=koratyacus/ReadmeContents">
 ](https://visitor-badge.laobi.icu/badge?page_id=koraytacus/ReadmeContents)
 
 
