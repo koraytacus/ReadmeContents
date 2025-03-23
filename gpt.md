@@ -89,9 +89,12 @@ The Coding Exam Platform is a specialized local network-based system designed fo
 
 3.  Run the application:
 
+   ```bash
    cd .\safeCodeProvider\
+  ```
+  ```bash
    py manage.py runserver 8000 --settings=safeCodeProvider.settings.teacher_settings
-    
+  ```
 
 ## **Potential Enhancements**
 - **Automated Grading System:** Enables automatic evaluation based on predefined test cases.
